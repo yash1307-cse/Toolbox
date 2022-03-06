@@ -23,6 +23,8 @@ Toolbox is a simple desktop app which contain 4 mini apps.
 
 **Database:**  MySQL
 
+**IDE:**  Intellij IDEA
+
 
 ## Screenshots
 
